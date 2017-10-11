@@ -79,7 +79,9 @@ p{
 }
 #bottomcaptionp{
     padding-top: 2vw;
+    line-height: 4vw;
 }
 #topcaptionp{
     padding-bottom: 2vw;
+    line-height: 4vw;
 }
